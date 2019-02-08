@@ -38,10 +38,6 @@
 
 2. 실행 화면
 
-     ![그림입니다.  원본 그림의 이름: CLP00002f8c5a8c.bmp  원본 그림의 크기: 가로 244pixel, 세로 386pixel](file:///C:\Users\DooHyun\AppData\Local\Temp\Hnc\BinData\EMB0000366842dc.bmp)  
-
-   메인화면 UI다. 버튼 아래에는 텍스트뷰로 구성되어있다.
-
    ![image](https://user-images.githubusercontent.com/20302410/52466629-486af980-2bc6-11e9-9b46-478c82a49333.png)
 
    와이파이 신호를 분석하여 미리 등록한 장소에 접근하면 알림이 울린다.
